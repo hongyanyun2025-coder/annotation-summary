@@ -1,0 +1,10 @@
+{
+  "id": "annotation-summary",
+  "name": "Annotation Summary",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Annotate documents with highlights, comments, and underlines, then auto-generate summary notes per source file.",
+  "author": "",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
